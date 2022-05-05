@@ -1,0 +1,43 @@
+body{
+    /* background-color: red; */
+}
+
+/* p {
+    color: purple;
+}
+
+h1 {
+    color: purple;
+}
+
+u {
+    color: purple;
+} */
+
+p, h1, u, .c--purple, #special {
+
+}
+
+p.c--purple{
+    
+}
+
+/* id 10 xal */
+/* #special{ 
+    color: blue;
+} */
+
+/* class 5 xal */
+/* .c--purple{
+    color: purple;
+}
+
+
+.second-class{
+    font-size: 64px;
+} */
+
+
+*{
+    
+}
